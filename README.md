@@ -146,22 +146,3 @@ Detected Emotion: Happy
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-### Key Markdown Elements:
-
-* **Bold text** is used for emphasis: `**text**`
-* **Headings** are defined with `#` (for different levels of headings): `#`, `##`, `###`
-* **Code blocks** are placed inside triple backticks:
-
-  ```bash
-  code
-  ```
-
----
-
-### In this format:
-
-* The `**` are shown as part of the content to indicate **bold** formatting.
-* The `#` for headings and the code block markers (triple backticks) are also visible, showing how they should be used for formatting.
-
-Let me know if this is the format you were looking for!
