@@ -1,7 +1,3 @@
-Ah, I see! You want the text to appear with Markdown-style formatting, but also want to explicitly show the formatting (e.g., `**bold**`, `## Heading`, etc.) as part of the content in your README. Here's the same README with the Markdown syntax visible, so that the actual symbols (like asterisks for bold) are shown.
-
----
-
 # Emotion Recognition System: Facial Expression Recognition (FER)
 
 ## Overview
@@ -141,8 +137,3 @@ Detected Emotion: Happy
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
